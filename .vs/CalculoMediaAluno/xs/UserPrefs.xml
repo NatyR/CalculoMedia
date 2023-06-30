@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{7748B274-A449-4BF8-9C24-D4C1D722248E}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CalculoMediaAluno PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/natye/Downloads/Pessoal/Repositorio/CalculoMediaAluno/CalculoMediaAluno/Startup.cs" relfile="Startup.cs" line="20" column="1" />
+      <Breakpoint file="/Users/natye/Downloads/Pessoal/Repositorio/CalculoMediaAluno/CalculoMediaAluno/Startup.cs" relfile="Startup.cs" line="33" column="1" />
+      <Breakpoint file="/Users/natye/Downloads/Pessoal/Repositorio/CalculoMediaAluno/CalculoMediaAluno/Controllers/AlunoController.cs" relfile="Controllers/AlunoController.cs" line="23" column="1" />
+      <Breakpoint file="/Users/natye/Downloads/Pessoal/Repositorio/CalculoMediaAluno/CalculoMediaAluno/Controllers/AlunoController.cs" relfile="Controllers/AlunoController.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="33" Column="1" />
+      <File FileName="Controllers/AlunoController.cs" Line="17" Column="6" />
+      <File FileName="Services/Interfaces/IAlunoService.cs" Line="3" Column="30" />
+      <File FileName="Services/AlunoService.cs" Line="2" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalculoMediaAluno" expanded="True">
+            <Node name="CalculoMediaAluno" expanded="True">
+              <Node name="Configuration" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
